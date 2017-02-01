@@ -1,0 +1,21 @@
+{
+  "name": "t3sec/bingscraper",
+  "description": "PHP scraping library",
+  "minimum-stability": "stable",
+  "keywords": ["bing", "scraper"],
+  "type": "library",
+  "authors": [
+    {
+      "name": "Marcus Krause",
+      "email": "marcus#exp2017@t3sec.info"
+    }
+  ],
+  "homepage": "https://github.com/t3sec/php-library-scraper-bing",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {"T3sec\\BingScraper\\": "src"}
+  },
+  "require": {
+      "jwage/purl": "0.0.7"
+  }
+}
