@@ -14,8 +14,6 @@
   "autoload": {
     "psr-4": {"T3sec\\BingScraper\\": "src"}
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "repositories": [
     {
       "type": "vcs",
