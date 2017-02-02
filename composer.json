@@ -1,7 +1,6 @@
 {
   "name": "t3sec/bingscraper",
   "description": "PHP scraping library",
-  "minimum-stability": "stable",
   "keywords": ["bing", "scraper"],
   "type": "library",
   "authors": [
