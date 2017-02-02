@@ -22,6 +22,6 @@
   ],
   "require": {
       "jwage/purl": "0.0.7",
-      "t3sec/urlhelper": "dev-master as 0.0.1"
+      "t3sec/urlhelper": "dev-master"
   }
 }
