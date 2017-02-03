@@ -14,12 +14,6 @@
   "autoload": {
     "psr-4": {"T3sec\\BingScraper\\": "src"}
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/t3sec/php-library-helper-url"
-    }
-  ],
   "require": {
       "jwage/purl": "0.0.7",
       "t3sec/urlhelper": "dev-master"
